@@ -1,4 +1,3 @@
-import unittest
 listaDeNumeros = [1,2,3,4,3,5,6,7,8,9,4,2,2]
 
 def encontrar_Numeros_Repetidos(listaDeNumeros):
