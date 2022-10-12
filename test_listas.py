@@ -1,5 +1,5 @@
 import unittest
-from .listas import *
+from listas import *
 class Test_Palindromo(unittest.TestCase):
     def test_NumerosRepetidos_1(self):
         diccionario = encontrar_Numeros_Repetidos([1,2,2,3,4,4,4])
