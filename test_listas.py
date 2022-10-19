@@ -13,5 +13,5 @@ class Test_Palindromo(unittest.TestCase):
         self.assertEqual(diccionario, {1: 1, 2: 2, 3: 1, 4: 3})
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": # pragma: no cover
     unittest.main()
